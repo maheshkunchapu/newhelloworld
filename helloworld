@@ -1,4 +1,5 @@
-// writing program of helloworld 
+// writing program of helloworld
+//simple 2 line program for pratice 
  HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
